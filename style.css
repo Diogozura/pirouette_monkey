@@ -1,0 +1,21 @@
+h1{
+    font-size: 5rem;
+    font-style: oblique;
+    text-align: center;
+    font-family: cursive;
+}
+body{
+    display: grid;
+    align-items: start;
+    /* height: 100vh; */
+    justify-content: center;
+    justify-items: center;
+    align-content: space-around;
+    background-color: rgb(243, 243, 243);
+    background-image: url('/image/fundobanana.jpg')
+}
+img{
+    max-width: 350px;
+    width: 500px;
+    height: 100%;
+}
