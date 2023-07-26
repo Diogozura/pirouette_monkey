@@ -12,7 +12,7 @@ body{
     justify-items: center;
     align-content: space-around;
     background-color: rgb(243, 243, 243);
-    background-image: url('/image/fundobanana.jpg')
+    background-image: url('./image/fundobanana.jpg')
 }
 img{
     max-width: 350px;
